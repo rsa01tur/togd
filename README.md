@@ -14,7 +14,7 @@ Tem ou você sabe, procure no yotube sobre os players de cloud iaas, como funcio
 ## Preços
 
 
-china ![alibaba](https://www.alibabacloud.com/product/dedicated-host?spm=a3c0i.21202589.6791778070.186.515bc119egRPgj)
+china [alibaba](https://www.alibabacloud.com/product/dedicated-host?spm=a3c0i.21202589.6791778070.186.515bc119egRPgj)
 384GB = R$9640  $1932X 4,99
 
 imagina containers = 1 GB 
