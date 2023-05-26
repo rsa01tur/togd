@@ -13,7 +13,8 @@ Tem ou você sabe, procure no yotube sobre os players de cloud iaas, como funcio
 ## Feito
 
 Instalar o php o apache2 e o docker, dar acesso ao apache ao docker, como faz? pesquissa, não criei uma biblioteca ou nada, simplesmete por código,
-ou seja shell_exec(docker) alguma coisa. 
+ou seja shell_exec(docker) alguma coisa. No máximo teria que corrigir o ip criar uma variável com acesso sei lá por $_post pergunrtar e atribuir,
+ou somente setar no próprio código a variavel.
 
 ## Preços
 
