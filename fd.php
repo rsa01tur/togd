@@ -13,7 +13,8 @@
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>5.
-    This version is test.
+    This version is test. This version is a test. It wasn't supposed to make 
+    html with php, it's a test.
 */
 require_once "Fazer.php";
 class Bom implements Fazer {
