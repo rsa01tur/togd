@@ -4,12 +4,16 @@ interface for docker using php apache very simple
 # O que falta
 
 Fazer build de uma imagem com ssh e todos os parâmetros necessários. É um código simples somente para dois containers, falta ajustar portas
-no código pois não é por ip, e ajustar o docker para rede.
+no código pois não é por ip.
 
 ## Estudo
 
 Tem ou você sabe, procure no yotube sobre os players de cloud iaas, como funciona o container.... 
 
+## Feito
+
+Instalar o php o apache2 e o docker, dar acesso ao apache ao docker, como faz? pesquissa, não criei uma biblioteca ou nada, simplesmete por código,
+ou seja shell_exec(docker) alguma coisa. 
 
 ## Preços
 
